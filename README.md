@@ -1,6 +1,19 @@
-frontend-nanodegree-arcade-game
+#FROGGER
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission.
+This adaptation of the Frogger game is part of the *Udacity Front-end Nanodegree*.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+To play, clone or download the repo and open **index.html**.
+
+##Playing Instructions
+
+* Move around the board using the arrow keys on your keyboard.
+* The goal is to reach the water at the top of the screen without being hit by a bug.
+* You will start over when you reach the water, or if you get hit by a bug.
+
+**Enjoy!**
+
+
+
+
+
